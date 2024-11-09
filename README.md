@@ -19,4 +19,4 @@ A simple console-based Contact Management System written in Java. This program a
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/contact_management.git
-   cd contact-management-system
+   cd contact_management
